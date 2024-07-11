@@ -1,30 +1,170 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
+    },
+    {
+      "id": "c43f",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "01b1",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6db2",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "cc39",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "7d55",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3371",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6fbd",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "12bd",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "4734",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "4433",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "29bd",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3498",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "7aed",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6f59",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "33ab",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3d35",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "4281",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "29b2",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "0ecb",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "5128",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6e45",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "1a07",
+      "dogName": "Byrone",
+      "dogBreed": "Poodle"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "6eed",
+      "name": "Harmony",
+      "email": "harmonymukolwe@gmail.com"
+    },
+    {
+      "id": "d3b6",
+      "name": "Harmony",
+      "email": "harmonymukolwe@gmail.com"
+    },
+    {
+      "id": "9edf",
+      "name": "Harmony",
+      "email": "harmonymukolwe@gmail.com"
+    },
+    {
+      "id": "c1f0",
+      "name": "Harmony",
+      "email": "harmonymukolwe@gmail.com"
+    },
+    {
+      "id": "ebb7",
+      "name": "Harmony",
+      "email": "harmonymukolwe@gmail.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
